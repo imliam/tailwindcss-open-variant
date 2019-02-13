@@ -1,0 +1,27 @@
+{
+    "name": "tailwindcss-open-variant",
+    "version": "1.0.0",
+    "description": "Open variant for Tailwind CSS",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/imlian/tailwindcss-open-variant.git"
+    },
+    "keywords": [
+        "open",
+        "details",
+        "variant",
+        "plugin",
+        "component",
+        "tailwind",
+        "tailwindcss",
+        "tailwind css",
+        "tailwindcss-plugin"
+    ],
+    "author": "Nathan Heffley",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/imliam/tailwindcss-open-variant/issues"
+    },
+    "homepage": "https://github.com/imliam/tailwindcss-open-variant#readme"
+}
