@@ -1,6 +1,6 @@
 # TailwindCSS Open Variant
 
-[![License](https://img.shields.io/github/license/imliam/:package_name.svg)](LICENSE.md)
+[![License](https://img.shields.io/github/license/imliam/tailwindcss-open-variant.svg)](LICENSE.md)
 
 Open variant for TailwindCSS, to use with the HTML `<details>` tag and apply styles only when the element is open.
 
