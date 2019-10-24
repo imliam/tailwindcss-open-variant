@@ -5,7 +5,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/imlian/tailwindcss-open-variant.git"
+        "url": "git+https://github.com/imliam/tailwindcss-open-variant.git"
     },
     "keywords": [
         "open",
