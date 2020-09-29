@@ -1,8 +1,8 @@
 module.exports = function () {
-  return function({ addVariant }) {
+  return function({ addVariant, e }) {
       addVariant('open', ({ modifySelectors, separator }) => {
           modifySelectors(({ className }) => {
-              return `[open].open${separator}${className}[open], details[open] .open${separator}${className}`
+              return `[open].open${e(`${separator}${className}`)}[open], details[open] .open${e(`${separator}${className}`)}`
           })
       })
   }
